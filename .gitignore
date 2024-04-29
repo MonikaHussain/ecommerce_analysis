@@ -2,3 +2,6 @@
 files_to_install.txt
 .vscode
 test.ipynb
+ Top_buyers.jpeg
+  __pycache__/
+  
