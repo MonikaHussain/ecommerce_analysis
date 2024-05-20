@@ -3,7 +3,7 @@ _This Analysis is based on the analyzing, summarizing and visualizing the data.I
 Visulization of Graphs are prepared on the results,using different libraries_
 
 ## Features :
-- Data collection from e-commerce websites[can prefer the dataset](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data)
+- Data collection from e-commerce websites [Can prefer the KAGGLE dataset](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data)
 - Data preprocessing and cleaning
 - Statistical analysis
 - Visualization of results
