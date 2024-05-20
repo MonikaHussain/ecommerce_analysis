@@ -1,5 +1,5 @@
 # SwiftMarket Analysis
-_This Analysis is based on the analyzing, summarizing and visualizing the data.In the project the main goal is analyzing e-commerce data to identify trends, patterns, and insights.
+_This project provides a comprehensive analysis of e-commerce data to uncover valuable insights and trends. It offers features for data collection, preprocessing, exploratory analysis, and visualization, making it an essential tool for data analysts and e-commerce professionals..In the project the main goal was to analyzing e-commerce data to identify trends, patterns, and insights.
 Visulization of Graphs are prepared on the results,using different libraries_
 
 ### Features :
