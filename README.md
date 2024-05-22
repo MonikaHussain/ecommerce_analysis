@@ -18,7 +18,8 @@ Visulization of Graphs are prepared on the results,using different libraries_
 
 
 ### Sample code :
-![image](C:\Users\suraj\OneDrive\Pictures\Screenshots)
+![Screenshot 2024-05-20 224425](https://github.com/MonikaHussain/ecommerce_analysis/assets/167159347/55323cbf-719d-497c-9491-6d567d76bff3)
+
 
 
 
@@ -26,7 +27,8 @@ Visulization of Graphs are prepared on the results,using different libraries_
 _This repository utilizes graphs as a fundamental tool for data visualization and analysis. They offer a powerful way to represent relationships and dependencies between different data points. In this project, I leverage various graph types_
 
 ### Sample Graph :
-![image](C:\Users\suraj\OneDrive\Pictures\Screenshots)
+![Screenshot 2024-05-21 212553](https://github.com/MonikaHussain/ecommerce_analysis/assets/167159347/6984dbb4-e057-4310-a145-d32c8c57bbf7)
+
 
 
 
