@@ -18,9 +18,22 @@ Visulization of Graphs are prepared on the results,using different libraries_
 
 
 ### Sample code :
-![Screenshot 2024-05-20 224425](https://github.com/MonikaHussain/ecommerce_analysis/assets/167159347/55323cbf-719d-497c-9491-6d567d76bff3)
+``` python
+# function to read sql query
+def read_query(query):
+    
+    cursor.execute(query)
+    rows = cursor.fetchall()
+    
+    return pd.DataFrame(data=rows, columns=cursor.column_names)
 
 
+if __name__=='__main__':
+    query = 'Show tables;'
+    print(query)
+    df = read_query(query=query)
+    print(df)
+```
 
 
 ### Visualization description:
