@@ -4,7 +4,7 @@ Visulization of Graphs are prepared on the results,using different libraries_
 
 
 ### Features :
-- _Data collection from e-commerce websites [Can prefer the KAGGLE dataset](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data)_
+- _Data collection from e-commerce websites [Can prefer the KAGGLE dataset](https://www.kaggle.com/datasets/monikahussain/swiftmarket-dataset)_
 - _Data preprocessing and cleaning_
 - _Statistical analysis_
 - _Visualization of results_
