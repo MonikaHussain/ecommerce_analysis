@@ -24,7 +24,7 @@ connection = mysql.connector.connect(user = user,
 cursor = connection.cursor()
 
 
-# to read sql query
+# function to read sql query
 def read_query(query):
     
     cursor.execute(query)
