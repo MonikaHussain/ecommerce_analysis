@@ -11,7 +11,7 @@ _ Data collection from Website [can prefer KAGGLE link](https://www.kaggle.com/d
 
 
 ##  Libraries :
-_Numpy_
-_Pandas_
-_Matplotlip_
-_Seaborn_
+- _Numpy_
+- _Pandas_
+- _Matplotlip_
+- _Seaborn_
